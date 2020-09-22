@@ -6,6 +6,7 @@ O objetvo é fazer um site que consuma os dados do covid-19 e filtre por país.
 Desenhei o layout no figma e vou passar para o código.
 
 
+
 **********************************************
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
