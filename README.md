@@ -1,7 +1,7 @@
 
 Projeto criado para estudos em react.
 
-O objetvo é fazer um site que consuma os dados do covid-19 e filtre por país.
+O objetvo é fazer uma aplicação que consuma os dados do covid-19 e filtre por país.
 
 Desenhei o layout no figma e vou passar para o código.
 
